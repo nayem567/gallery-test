@@ -10,5 +10,8 @@
 		width: 45%;
 		margin-left: 7%;
 	}
+	#scroll {
+		 position: relative;
+	}
 	
 }
