@@ -1,0 +1,14 @@
+
+
+
+@media only screen and (max-width: 600px) {
+	#gallery ul li {
+		width: 50%;
+	}
+	
+	#gallery ul li {
+		width: 45%;
+		margin-left: 7%;
+	}
+	
+}
