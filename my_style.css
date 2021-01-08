@@ -55,7 +55,7 @@ canvas {
     width: 100%;
     height: 100%;
     /* overflow: hidden; */
-    overflow: scroll;
+    
     border: 1px solid rgba(255,255,255,0.2);
     padding: 2px;
 }
@@ -90,7 +90,7 @@ canvas {
     left: 16px;
     right: 16px;
     /* overflow: hidden; */
-    overflow: scroll;
+   
     text-overflow: ellipsis;
     -webkit-transform: translateY(50px);
             transform: translateY(50px);
@@ -149,5 +149,5 @@ canvas {
     height: 20px;
     background: #E91E63;
     /* overflow: hidden; */
-    overflow: scroll;
+    
 }
